@@ -19,7 +19,7 @@ export default async function Home() {
   let data = await res.json()
   return (
     <main className="bg-slate-400 h-screen">
-      <h1 className="text-6xl text-center">Welcome To Hasnain's Coding World</h1><br />
+      <h1 className="text-6xl text-center">Welcome To Hasnain&apos;s Coding World</h1><br />
       <h1 className="text-9xl text-center ">Using Shadcn.ui </h1>
       <p className="text-center mt-[100px]">I can Import this Menu Bar From Shadcn.ui</p>
       <div className="flex justify-center ">
