@@ -1,5 +1,5 @@
-import Link from "next/link";
-import { Menu } from "lucide-react";
+import Link from "next/link"
+import { Menu } from "lucide-react"
 import {
   Sheet,
   SheetContent,
@@ -57,5 +57,5 @@ export default async function Home() {
 
       </div>
     </main>
-  );
+  )
 }
